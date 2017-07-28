@@ -7,4 +7,9 @@ Now I have added this line in the feature branch :-)
 
 *one star*
 
-_underline_
+_NO underline_
+
+bullet
+* one
+* two
+* three
